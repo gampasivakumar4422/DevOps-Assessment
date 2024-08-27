@@ -46,4 +46,7 @@
     "typescript": "~5.4.2",
     "webpack-cli": "^5.1.4"
   }
+  "scripts": {
+    "test": "jest"
+  }
 }
